@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/task_tracker/static/css/main.31d6cfe0.css",
+    "main.js": "/task_tracker/static/js/main.3e01a004.js",
+    "index.html": "/task_tracker/index.html",
+    "main.3e01a004.js.map": "/task_tracker/static/js/main.3e01a004.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.3e01a004.js"
+  ]
+}
